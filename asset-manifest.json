@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/gogoanime/static/css/main.0d95b0a3.chunk.css",
-    "main.js": "/gogoanime/static/js/main.630ea59d.chunk.js",
-    "main.js.map": "/gogoanime/static/js/main.630ea59d.chunk.js.map",
+    "main.js": "/gogoanime/static/js/main.80680133.chunk.js",
+    "main.js.map": "/gogoanime/static/js/main.80680133.chunk.js.map",
     "runtime-main.js": "/gogoanime/static/js/runtime-main.b8678b69.js",
     "runtime-main.js.map": "/gogoanime/static/js/runtime-main.b8678b69.js.map",
-    "static/js/2.7622df1e.chunk.js": "/gogoanime/static/js/2.7622df1e.chunk.js",
-    "static/js/2.7622df1e.chunk.js.map": "/gogoanime/static/js/2.7622df1e.chunk.js.map",
+    "static/js/2.bde6fd91.chunk.js": "/gogoanime/static/js/2.bde6fd91.chunk.js",
+    "static/js/2.bde6fd91.chunk.js.map": "/gogoanime/static/js/2.bde6fd91.chunk.js.map",
     "index.html": "/gogoanime/index.html",
-    "precache-manifest.293fe8934dce310d98970d5b78640213.js": "/gogoanime/precache-manifest.293fe8934dce310d98970d5b78640213.js",
+    "precache-manifest.b5f5f8e6928159a0593d0ac9e537fe0a.js": "/gogoanime/precache-manifest.b5f5f8e6928159a0593d0ac9e537fe0a.js",
     "service-worker.js": "/gogoanime/service-worker.js",
     "static/css/main.0d95b0a3.chunk.css.map": "/gogoanime/static/css/main.0d95b0a3.chunk.css.map",
-    "static/js/2.7622df1e.chunk.js.LICENSE.txt": "/gogoanime/static/js/2.7622df1e.chunk.js.LICENSE.txt"
+    "static/js/2.bde6fd91.chunk.js.LICENSE.txt": "/gogoanime/static/js/2.bde6fd91.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b8678b69.js",
-    "static/js/2.7622df1e.chunk.js",
+    "static/js/2.bde6fd91.chunk.js",
     "static/css/main.0d95b0a3.chunk.css",
-    "static/js/main.630ea59d.chunk.js"
+    "static/js/main.80680133.chunk.js"
   ]
 }
