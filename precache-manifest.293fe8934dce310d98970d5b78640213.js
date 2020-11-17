@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb342aeda80bf46319860a36a5273731",
+    "revision": "f903996c3db5a8e18a63ecb6486d4ff6",
     "url": "/gogoanime/index.html"
   },
   {
-    "revision": "d44bc165753d806e29ab",
+    "revision": "fa4847fc099c51908257",
     "url": "/gogoanime/static/css/main.0d95b0a3.chunk.css"
   },
   {
-    "revision": "216822d43e5af2ca8511",
-    "url": "/gogoanime/static/js/2.b67c4f9e.chunk.js"
+    "revision": "bdf6381d2bd556daa28a",
+    "url": "/gogoanime/static/js/2.7622df1e.chunk.js"
   },
   {
     "revision": "25ee36cecf3742d8e72fa8504c054097",
-    "url": "/gogoanime/static/js/2.b67c4f9e.chunk.js.LICENSE.txt"
+    "url": "/gogoanime/static/js/2.7622df1e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d44bc165753d806e29ab",
-    "url": "/gogoanime/static/js/main.86d31b68.chunk.js"
+    "revision": "fa4847fc099c51908257",
+    "url": "/gogoanime/static/js/main.630ea59d.chunk.js"
   },
   {
     "revision": "c9e8817316724b7e15fc",
