@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/gogoanime/static/css/main.0d95b0a3.chunk.css",
-    "main.js": "/gogoanime/static/js/main.f6f1c953.chunk.js",
-    "main.js.map": "/gogoanime/static/js/main.f6f1c953.chunk.js.map",
-    "runtime-main.js": "/gogoanime/static/js/runtime-main.b8678b69.js",
-    "runtime-main.js.map": "/gogoanime/static/js/runtime-main.b8678b69.js.map",
-    "static/js/2.b67c4f9e.chunk.js": "/gogoanime/static/js/2.b67c4f9e.chunk.js",
-    "static/js/2.b67c4f9e.chunk.js.map": "/gogoanime/static/js/2.b67c4f9e.chunk.js.map",
-    "index.html": "/gogoanime/index.html",
-    "precache-manifest.6960c89c3edb4a4caec8118cb040ec32.js": "/gogoanime/precache-manifest.6960c89c3edb4a4caec8118cb040ec32.js",
-    "service-worker.js": "/gogoanime/service-worker.js",
-    "static/css/main.0d95b0a3.chunk.css.map": "/gogoanime/static/css/main.0d95b0a3.chunk.css.map",
-    "static/js/2.b67c4f9e.chunk.js.LICENSE.txt": "/gogoanime/static/js/2.b67c4f9e.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.0d95b0a3.chunk.css",
+    "main.js": "/static/js/main.3b6827a0.chunk.js",
+    "main.js.map": "/static/js/main.3b6827a0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fea1d36c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fea1d36c.js.map",
+    "static/js/2.ba0f45c2.chunk.js": "/static/js/2.ba0f45c2.chunk.js",
+    "static/js/2.ba0f45c2.chunk.js.map": "/static/js/2.ba0f45c2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4c3ee032d0daf272ed1d0561a8e3029b.js": "/precache-manifest.4c3ee032d0daf272ed1d0561a8e3029b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0d95b0a3.chunk.css.map": "/static/css/main.0d95b0a3.chunk.css.map",
+    "static/js/2.ba0f45c2.chunk.js.LICENSE.txt": "/static/js/2.ba0f45c2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b8678b69.js",
-    "static/js/2.b67c4f9e.chunk.js",
+    "static/js/runtime-main.fea1d36c.js",
+    "static/js/2.ba0f45c2.chunk.js",
     "static/css/main.0d95b0a3.chunk.css",
-    "static/js/main.f6f1c953.chunk.js"
+    "static/js/main.3b6827a0.chunk.js"
   ]
 }
