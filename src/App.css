@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.greet {
+  text-align: center;
+  margin: 0.5em;
+}
+
+.greetMyAnime {
+  cursor: pointer;
+  text-decoration: underline;
+}

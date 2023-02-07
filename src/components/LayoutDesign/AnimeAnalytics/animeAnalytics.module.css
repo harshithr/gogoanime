@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+}
+
+.tableContainer {
+  width: 90%;
+  margin: 0 5% 0 5%;
+  border-collapse: collapse;
+}
+
+.tableContainer th {
+  background-color: #242424;
+}
+
+.tableContainer td, .tableContainer th {
+  border: 1px solid grey;
+  padding: 8px;
+}
+
+.tableContainer tr:hover {background-color: #424242; cursor: pointer;}
+
+.tableContainer th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  color: white;
+}

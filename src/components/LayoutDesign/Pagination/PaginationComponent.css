@@ -1,0 +1,25 @@
+.container {
+  padding: 10;
+}
+
+.pagination {
+  display: inline-block;
+}
+
+.pagination a {
+  color: white;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+.active {
+  background-color: #4CAF50;
+  color: white;
+  border-radius: 5px;
+}
+
+.pagination a:hover:not(.active) {
+  background-color: #424242;
+  border-radius: 5px;
+}
